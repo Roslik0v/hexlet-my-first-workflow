@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-[![CI Status](https://github.com/Roslik0v/hexlet-my-first-workflow/actions/runs/12272994658/workflow)
+[![say-hello](https://github.com/Roslik0v/hexlet-my-first-workflow/actions/workflows/say-hello.yml/badge.svg)](https://github.com/Roslik0v/hexlet-my-first-workflow/actions/workflows/say-hello.yml)
